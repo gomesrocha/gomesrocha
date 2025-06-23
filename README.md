@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gomesrocha" alt="gomesrocha" /></a> </p>
 
-- 🔭 I’m currently working on [SafeLabs](https://safelabs.com.br/)
+- 🔭 I’m currently working on [NTT Data](https://nttdata-solutions.com/br/)
   
 - - My personal [Website](https://www.fabiogomesrocha.com/)
 
